@@ -1,22 +1,22 @@
 # Tech Review (WIP)
 
 ## UI/UX
-- [ ] Fluxo de staking
-- [ ] Dashboard de recompensas
+- [ ] Staking flow
+- [ ] Rewards dashboard
 
-## Integração com Contratos
-- [ ] ABI e endereços
-- [ ] Tratamento de erros nas transações
+## Smart Contract Integration
+- [ ] ABI and contract addresses
+- [ ] Transaction error handling
 
 ## State Management
 - [ ] Context API vs Redux
-- [ ] Estratégias de caching
+- [ ] Caching strategies
 
 ## Wallet Connection
 - [ ] Ethers.js / Web3.js
 - [ ] MetaMask / WalletConnect
 
 ## API & Backend
-- [ ] Endpoints REST/GraphQL
-- [ ] Autenticação
-- [ ] Segurança
+- [ ] REST/GraphQL endpoints
+- [ ] Authentication
+- [ ] Security considerations
